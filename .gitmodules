@@ -1,3 +1,6 @@
 [submodule "ChessPuzzle"]
 	path = ChessPuzzle
 	url = https://github.com/T-Tiffanyyau/ChessPuzzle
+[submodule "SpriteEditor"]
+	path = SpriteEditor
+	url = https://github.com/T-Tiffanyyau/SpriteEditor
