@@ -12,10 +12,15 @@ To download a specific project within this repository:
 ### Downloading the Entire Repository
 To obtain all projects housed in this repository:
 1. Clone the repository to your local machine using the following command:
-```git clone https://github.com/T-Tiffanyyau/Cplusplus```
+   
+`git clone https://github.com/T-Tiffanyyau/Cplusplus`
+
 2. Navigate into the cloned directory:
+   
 ```cd Cplusplus```
+
 3. Initialize and update the submodules to retrieve all files within:
+
 ```git submodule update --init```
 
 ### Running Each Project
