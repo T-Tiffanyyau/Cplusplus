@@ -1,0 +1,3 @@
+[submodule "ChessPuzzle"]
+	path = ChessPuzzle
+	url = https://github.com/T-Tiffanyyau/ChessPuzzle
